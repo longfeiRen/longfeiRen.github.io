@@ -2,6 +2,7 @@
 layout: page
 title: Sean Blog
 tagline: 个人总结及收藏
+tags: [Linux,Nginx,MySQL,PHP,GO]
 ---
 {% include JB/setup %}
 
