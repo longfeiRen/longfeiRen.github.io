@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Sean Blog
+tagline: 个人总结及收藏
 ---
 {% include JB/setup %}
 
