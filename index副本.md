@@ -5,9 +5,13 @@ tagline: 个人总结及收藏
 ---
 {% include JB/setup %}
 
-## 数据库长连接
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-在小型项目中使用长连接会造成一些资源的浪费
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
+## Update Author Attributes
+
+In `_config.yml` remember to specify your own data:
     
     title : My Blog =)
     
